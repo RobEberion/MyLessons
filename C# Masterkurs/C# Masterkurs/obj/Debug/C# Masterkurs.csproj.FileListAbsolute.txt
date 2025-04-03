@@ -1,0 +1,7 @@
+C:\Users\Anwender\source\repos\C# Masterkurs\C# Masterkurs\bin\Debug\C# Masterkurs.exe.config
+C:\Users\Anwender\source\repos\C# Masterkurs\C# Masterkurs\bin\Debug\C# Masterkurs.exe
+C:\Users\Anwender\source\repos\C# Masterkurs\C# Masterkurs\bin\Debug\C# Masterkurs.pdb
+C:\Users\Anwender\source\repos\C# Masterkurs\C# Masterkurs\obj\Debug\C# Masterkurs.csproj.AssemblyReference.cache
+C:\Users\Anwender\source\repos\C# Masterkurs\C# Masterkurs\obj\Debug\C# Masterkurs.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\source\repos\C# Masterkurs\C# Masterkurs\obj\Debug\C# Masterkurs.exe
+C:\Users\Anwender\source\repos\C# Masterkurs\C# Masterkurs\obj\Debug\C# Masterkurs.pdb
